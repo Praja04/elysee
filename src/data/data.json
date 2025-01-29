@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Kecantikan Alami Dimulai dari Sini",
+    "paragraph": "Kami percaya bahwa kulit cantik tidak membutuhkan banyak langkah. Dengan formula minimalis yang penuh manfaat, jadikan perawatan kulit lebih mudah dan efektif."
+  },
+  "About": {
+    "paragraph": "lysee adalah brand kosmetik yang hadir untuk menghadirkan kecantikan alami dan kemewahan bagi setiap wanita. Terinspirasi dari keindahan Elysium, kami percaya bahwa setiap orang berhak memiliki kulit yang sehat, bercahaya, dan terawat. Dengan bahan-bahan berkualitas premium dan teknologi inovatif, Elysee menjadi mitra kecantikan terpercaya untuk menonjolkan pesona alami Anda.",
+    "Why": [
+      "Formulasi Premium",
+      "Bahan Alami",
+      "Aman dan Teruji",
+      "Hasil Terbukti"
+    ],
+    "Why2": [
+      "Tekstur Nyaman",
+      "Aroma Lembut",
+      "Cocok untuk Semua Jenis Kulit",
+      "Bebas dari Bahan Berbahaya"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Serum Wajah",
+      "largeImage": "img/kosmetik/close-up-elegant-beauty-selfcare-treatment.jpg",
+      "smallImage": "img/kosmetik/close-up-elegant-beauty-selfcare-treatment.jpg"
+    },
+    {
+      "title": "Lipstick",
+      "largeImage": "img/kosmetik/16253.jpg",
+      "smallImage": "img/kosmetik/16253.jpg"
+    },
+    {
+      "title": "Body Wash",
+      "largeImage": "img/kosmetik/body-wash.jpg",
+      "smallImage": "img/kosmetik/body-wash.jpg"
+    },
+    {
+      "title": "Body Lotion",
+      "largeImage": "img/kosmetik/body-lotion.jpg",
+      "smallImage": "img/kosmetik/body-lotion.jpg"
+    },
+    {
+      "title": "Krim Wajah",
+      "largeImage": "img/kosmetik/cream-wajah.jpg",
+      "smallImage": "img/kosmetik/cream-wajah.jpg"
+    },
+    {
+      "title": "Blush On",
+      "largeImage": "img/kosmetik/blash-on.jpg",
+      "smallImage": "img/kosmetik/blash-on.jpg"
+    }
+   
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+ "Testimonials": [
+  {
+    "img": "img/testimonials/07.jpg",
+    "text": "\"Saya sangat puas dengan produk serum wajah dari Elysee. Kulit saya terasa lebih lembap setelah pemakaian rutin selama seminggu!\"",
+    "name": "Sarah Williams"
+  },
+  {
+    "img": "img/testimonials/08.jpg",
+    "text": "\"Lipstik Elysee tidak hanya tahan lama, tapi juga memberikan warna yang sangat pigmented. Ini jadi favorit saya untuk penggunaan sehari-hari!\"",
+    "name": "Emily Johnson"
+  },
+  {
+    "img": "img/testimonials/09.jpg",
+    "text": "\"Body lotion Elysee membuat kulit saya terasa halus dan tidak lengket. Saya benar-benar merasa kulit saya lebih sehat!\"",
+    "name": "Michael Smith"
+  },
+  {
+    "img": "img/testimonials/04.jpg",
+    "text": "\"Produk krim wajah Elysee bekerja sangat baik untuk kulit saya yang sensitif. Tidak ada iritasi sama sekali, hanya hasil yang luar biasa!\"",
+    "name": "Olivia Brown"
+  },
+  {
+    "img": "img/testimonials/10.jpg",
+    "text": "\"Blush on Elysee memberi kesan natural dan segar pada wajah saya. Saya suka sekali dengan efeknya!\"",
+    "name": "Daniel Clark"
+  },
+  {
+    "img": "img/testimonials/06.jpg",
+    "text": "\"Setelah menggunakan body wash Elysee, saya merasa kulit saya lebih bersih dan segar. Aroma nya pun sangat menyenangkan!\"",
+    "name": "Jessica Lee"
+  }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
